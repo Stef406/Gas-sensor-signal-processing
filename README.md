@@ -1,5 +1,5 @@
 # Gas-sensor-signal-processing
-Copyright 2024, All Rights Reserved
+Copyright 2022, All Rights Reserved
 
 Code by Stefano Iannello For Paper, "Investigation of single particle devolatilization in fluidized bed reactors by X-ray imaging techniques" Chemical Engineering Journal, 431, 133807, 2022, https://doi.org/10.1016/j.cej.2021.133807, by S. Iannello, P. U. Foscolo, M. Materazzi.
 
